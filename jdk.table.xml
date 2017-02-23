@@ -1,0 +1,64 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.11+ (ssh://root@192.168.56.107:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11+" />
+      <homePath value="ssh://root@192.168.56.107:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-1533282614" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-326397206" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="192.168.56.107" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfd8dfc1dfccdfc1dfd8df9bdf98df99" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11+">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-1533282614" remote-root="/usr/lib/python2.7/plat-i386-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-326397206/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/distribute-0.6.49-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/pip-1.5.6-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
