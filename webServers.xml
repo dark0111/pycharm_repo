@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="482dc2b9-d6f8-4db0-8322-d0bf9370f8ac" name="Copy of project-level server 'garaktool'" url="http://52.78.185.40">
-        <fileTransfer host="52.78.185.40" port="22" privateKey="$USER_HOME$/Box Sync/data_2017/work_2017/MINION/aws settup info/minion_django.pem" rootFolder="/opt/garaktool" accessType="SFTP" keyPair="true">
+      <webServer id="482dc2b9-d6f8-4db0-8322-d0bf9370f8ac" name="garakdev" url="http://52.78.185.40">
+        <fileTransfer host="52.78.185.40" port="22" privateKey="$USER_HOME$/Box Sync/data_2017/work_2017/MINION/aws settup info/minion_django.pem" rootFolder="/opt/garakdev" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
