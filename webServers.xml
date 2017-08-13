@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="117dcc53-df47-49de-9410-dd41a32144c3" name="garakDeploy" url="http://52.78.185.40">
+        <fileTransfer host="52.78.185.40" port="22" privateKey="$USER_HOME$/Box Sync/data_2017/work_2017/MINION/aws settup info/minion_django.pem" rootFolder="/opt/garakDeploy" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
