@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="bba9dcfc-4174-44a9-aa67-c8932f4b5978" name="py-package" url="http://52.78.185.40">
+        <fileTransfer host="52.78.185.40" port="22" privateKey="$USER_HOME$/Box Sync/data_2017/work_2017/MINION/aws settup info/minion_django.pem" rootFolder="/usr/local/lib/python2.7/dist-packages" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
